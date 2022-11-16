@@ -35,14 +35,7 @@
 #define HIST_MAX	4096
 
 extern char **environ;
-<<<<<<< HEAD
 
-=======
-/* Global program name */
-/*char *name;*/
-/* Global history counter */
-/*int hist;*/
->>>>>>> 24bbdafd10de6c4c10ccf3e97ded9258f4b5eb45
 
 /**
  * struct liststr - singly linked list
